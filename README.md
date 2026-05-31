@@ -13,7 +13,7 @@ Travel Destination is a frontend web application built with React that allows us
 
 ## 🚀 Live Demo
 
-Visit the live application: [Travel Destination](https://52330196-netizenfirst.github.io/travel-destination)
+Visit the live application: [Travel Destination](https://web-2-ghina-khader.vercel.app/)
 
 ## ��️ Technologies Used
 
